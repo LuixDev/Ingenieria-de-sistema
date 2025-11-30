@@ -38,10 +38,13 @@
 
 - **QA Tester**
   Pruebas funcionales, automatizadas, de regresión, usabilidad y aseguramiento de calidad de software.
-- 
+  
 - **Soporte TI**
   Asistencia técnica, mantenimiento de hardware/software, resolución de incidencias y atención al usuario.
--
+  
+- **Computador Cuantico**
+  Utiliza qubits y principios de la mecánica cuántica para procesar información mucho más rápido que la computación clásica en problemas complejos, como optimización, simulaciones químicas, criptografía avanzada    e inteligencia artificial, usando lenguajes como Qiskit
+
 - **Automatización**
   Incluye herramientas y tecnologías que permiten conectar aplicaciones, APIs y servicios para automatizar tareas repetitivas y optimizar procesos de negocio, sin necesidad de programar todo desde cero.
   como n8n, zapier, make
