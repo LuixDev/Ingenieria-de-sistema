@@ -92,22 +92,22 @@
 ---
 ## 🌟 Hábitos y Cualidades para Entrar al Mundo de Sistemas
 
-**Estudio de mercado
+**Estudio de mercado**  
 Conocer tendencias, tecnologías emergentes y necesidades de la industria.
 
-**Marketing personal y profesional
+**Marketing personal y profesional**  
 Saber presentar tus habilidades, proyectos y logros.
 
-**Networking
+**Networking**  
 Conectar con profesionales, comunidades y oportunidades de colaboración.
 
-**Saber ser y serlo
+**Saber ser y serlo**  
 Responsabilidad, ética, curiosidad, resiliencia y actitud proactiva.
 
-**Aprender constantemente
+**Aprender constantemente**  
 Mantenerse actualizado con nuevas herramientas, lenguajes y metodologías.
 
-**Descanso adecuado
+**Descanso adecuado**  
 
 
 
